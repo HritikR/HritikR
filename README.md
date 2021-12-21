@@ -2,7 +2,7 @@
 <h3 align="center">A Full Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hritikr&label=Profile%20views&color=0e75b6&style=flat" alt="hritikr" /> </p>
-
+<img align="right" src="https://i.imgur.com/f0tEAQp.gif">
 - 🔭 I’m currently working on [Curl-to-Blocks](https://curltoblocks.web.app)
 
 - 🌱 I’m currently learning **Flutter**
