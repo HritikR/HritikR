@@ -1,20 +1,13 @@
-<h1 align="center">Hi 👋, I'm Hritik R</h1>
+<h1 align="center">Hi 👋, I'm Hritik</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hritikr&label=Profile%20views&color=0e75b6&style=flat" alt="hritikr" /> </p>
   <img src="https://i.imgur.com/ue8wHvh.png" align="right">
-  
-- 🔭 I’m currently working on [Xcess](https://github.com/HritikR/Xcess)
 
-- 🌱 I’m currently learning **Go**
-
-- 💬 Ask me about **Javascript, PHP, Python, Java**
+- 💬 Ask me about **Javascript, PHP, Python, Java, Go**
 
 - 📫 How to reach me **hritik.r7@outlook.com**
-
-- 🕵️‍♂️ Want to find out something new? [What is this thing](https://whatisthisthing.vercel.app)
   
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,7 +17,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,nextjs,astro,java,tailwind,bootstrap,php,java,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,nextjs,astro,java,tailwind,bootstrap,php,java,aws,go)](https://skillicons.dev)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hritikr&" alt="hritikr" /></p>
